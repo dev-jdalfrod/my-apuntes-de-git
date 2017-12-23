@@ -5,7 +5,7 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 ### Zonas de Git
 1. Directorio de trabajo.
 2. Área de preparación.
-3. Directorio Git
+3. Directorio Git.
 
 
 ### Flujo de trabajo básico en Git
