@@ -22,4 +22,5 @@ git config --global core.editor nano
 git config --list
 ```
 
-Esta línea fue creada en la rama master.
+### Varios repositorios remotos
+Es posible configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
