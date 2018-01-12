@@ -18,8 +18,3 @@ git config --global user.email johndoe@example.com
 git config --global core.editor nano
 git config --list
 ```
-
-### Soy un nuevo título
-Cambios menores.
-
-Esta línea se agregó desde una laptop conectada al repositorio local con GitHub a través de HTTPS.
